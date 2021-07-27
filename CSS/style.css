@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: slateblue;
+    height: 200px;
+    text-align: center;
+}
+.company{
+    background-color: saddlebrown;
+    height: 500px;
+    text-align: center;
+}
+.service_1{
+    overflow: hidden;
+    text-align: center;
+    
+   
+
+}
+.one{
+    background-color: springgreen;
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 50px;
+    
+    
+
+}
+.two{
+    background-color: tomato;
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 50px;
+   
+   
+
+}
+.three{
+    background-color: yellow;
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 50px;
+    
+    
+
+}
+.service_2{
+    overflow: hidden;
+    text-align: center;
+    
+    
+
+}
+.four{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 50px;
+    background-color: royalblue;
+
+}
+.five{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 50px;
+    background-color: sandybrown;
+
+}
+.six{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 50px;
+    background-color: seagreen;
+
+}
+footer{
+    background-color: darkslategray;
+    height: 100px;
+    text-align: center;
+}
